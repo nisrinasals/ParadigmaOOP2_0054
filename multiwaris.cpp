@@ -45,3 +45,8 @@ public:
 
 };
 
+int main(){
+    budi a(22);
+
+    return 0;
+}
